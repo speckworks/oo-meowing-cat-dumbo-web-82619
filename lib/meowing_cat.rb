@@ -1,1 +1,1 @@
-## code your solution here. 
+def Class cat## code your solution here. 
