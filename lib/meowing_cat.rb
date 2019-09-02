@@ -8,6 +8,7 @@ def Class Cat
   end
   
   def meow
-    puts "Meow!"
+    puts "meow!"
+  end
   
 end
