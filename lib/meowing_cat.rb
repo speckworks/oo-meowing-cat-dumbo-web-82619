@@ -7,3 +7,4 @@ def Class Cat
     @@all<< self
   end
   
+end
