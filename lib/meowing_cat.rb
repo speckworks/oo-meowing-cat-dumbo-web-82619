@@ -1,4 +1,4 @@
-def Class Cat
+class Cat
   attr_accessor name:
   @@all = []
   
