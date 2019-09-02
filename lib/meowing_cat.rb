@@ -7,4 +7,7 @@ def Class Cat
     @@all<< self
   end
   
+  def meow
+    puts 
+  
 end
