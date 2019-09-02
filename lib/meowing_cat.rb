@@ -2,7 +2,7 @@ class Cat
   attr_accessor name:
   @@all = []
   
-  def initialize Cat(name)
+  def initialize(name)
     @name = name
     @@all<< self
   end
